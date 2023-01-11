@@ -1,2 +1,9 @@
 # animeRemoveSwimsuit
-This project was created to make anime girls in swimsuits completely naked. I am not responsible if using that software is illegal for you.
+
+## Goal
+I was tired with all this censoreship in hentai, so I wanted to make an A. I. that can do the following:
+
+- remove "black lines" from anime picture
+- remove swimsuit from anime picture
+
+But for now, `this project is haunted.`, because my _math_ is **really bad**.
